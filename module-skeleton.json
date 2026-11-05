@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-databases-flutter",
+  "capabilityKey": "liberusoftware/module-control-panel-databases",
+  "presentation": "mobile-flutter",
+  "package": "module_control_panel_databases_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/control-panel/nextjs/databases.md",
+  "presentationPlan": "projects/control-panel/flutter/databases.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
